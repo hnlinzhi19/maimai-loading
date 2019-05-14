@@ -1,0 +1,1 @@
+{"version":3,"file":"index.umd.js","sources":["../src/components/maimai-loading/index.js"],"sourcesContent":["import { h, Component } from \"preact\";\nimport style from \"./style.less\";\n\n\nexport default (props) =>{\n  return (<div class={style.loading}>\n  \n  </div>)\n}"],"names":["props"],"mappings":"iOAIgBA"}
